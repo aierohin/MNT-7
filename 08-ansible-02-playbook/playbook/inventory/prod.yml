@@ -1,6 +1,13 @@
 ---
 elasticsearch:
   hosts:
-    localhost:
+    test:
+      ansible_host: 10.0.2.5
       ansible_connection: ssh
-      ansible_user: root
+      ansible_user: erohin
+kibana:
+  hosts:
+    test:
+      ansible_host: 10.0.2.5
+      ansible_connection: ssh
+      ansible_user: erohin
