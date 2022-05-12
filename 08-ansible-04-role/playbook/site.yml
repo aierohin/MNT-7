@@ -1,0 +1,13 @@
+---
+- name: Assert Elasticrole
+  hosts: el-instance
+  roles:
+     - elastic
+- name: Assert Kibanarole
+  hosts: k-instance
+  roles:
+     - kibana-role
+- name: Assert Filebeatrole
+  hosts: app-instance
+  roles:
+     - filebeat-role
