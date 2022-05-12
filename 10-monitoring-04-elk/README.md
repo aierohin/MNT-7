@@ -10,5 +10,8 @@
 ## Задание 2
 
 ![Screenshot from 2022-05-12 11-08-25 (1)](https://user-images.githubusercontent.com/88886716/168036455-b040127d-71f6-4e1b-951c-80849e133d3f.png)
+
+![Screenshot from 2022-05-12 14-55-43](https://user-images.githubusercontent.com/88886716/168079818-7f454d91-a6e1-4812-a700-20d659fb317c.png)
+
  
 ---
