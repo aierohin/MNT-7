@@ -2,16 +2,18 @@
 
 ## Задание 1
 
-![image](https://user-images.githubusercontent.com/88886716/168531913-417a8d20-d228-4e7b-bcb2-7e2f3d5fd609.png)
+![image](https://user-images.githubusercontent.com/88886716/168845271-8f4c45a1-1529-41a9-87d2-7cbd61c59ac3.png)
 
 ## Задание 2
 
-![image](https://user-images.githubusercontent.com/88886716/168531971-36db4976-3dbd-45dd-9219-29cb523c8d54.png)
+![image](https://user-images.githubusercontent.com/88886716/168845496-07e7f51a-4aff-46cb-9f4a-7cb3b2cdc6eb.png)
 
-![image](https://user-images.githubusercontent.com/88886716/168531997-c0a3348b-8a61-4ec7-a677-9cbc7008295f.png)
+![image](https://user-images.githubusercontent.com/88886716/168845847-f931077a-eafa-4f15-8ea4-145b73033039.png)
+
+![image](https://user-images.githubusercontent.com/88886716/168846049-1c4e3c48-314b-4e5f-87d8-68d68e60446c.png)
 
 
 ## Задание 3
 
-![image](https://user-images.githubusercontent.com/88886716/168532035-68034bc3-835f-48cc-a0a9-39f13531c208.png)
+![image](https://user-images.githubusercontent.com/88886716/168846422-327d633c-d654-4c09-8080-ccb081ced45f.png)
 
